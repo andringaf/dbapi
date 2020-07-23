@@ -1,9 +1,14 @@
 {
-  "posts": [
+  "bio": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+         "id" : 1,
+         "name":"Febriana Andringa",
+         "desc":"I’m a web developer working with passion.",
+         "age":"24",
+         "address":"Cikutra, Bandung",
+         "email":"febriana.andringa@gmail.com",
+         "phone":"+62 838-9885-7462"
+      }
   ],
   "profile": {
     "name": "typicode"
