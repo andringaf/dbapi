@@ -1,5 +1,5 @@
 {
-  "bio": [
+  "bio": 
     {
          "name":"Febriana Andringa",
          "desc":"I’m a web developer working with passion.",
@@ -7,9 +7,11 @@
          "address":"Cikutra, Bandung",
          "email":"febriana.andringa@gmail.com",
          "phone":"+62 838-9885-7462"
-      }
-  ],
-  "profile": {
-    "name": "typicode"
+      },
+  "exp": {
+     "date":"2018-Present",
+     "company":"PT SOLMIT BANGUN IDONESIA",
+     "job":"PHP Web Developer",
+     "desc":"Developing & Fixing Banking web aplications."
   }
 }
